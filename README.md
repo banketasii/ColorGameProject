@@ -1,4 +1,5 @@
 # ColorGameProject
+<<<<<<< HEAD
 
 Good Exercise in js.
 
@@ -10,3 +11,5 @@ Colors are randomly chosen
 
 Select the square that is the correct color of RGB
 value shown.
+=======
+>>>>>>> refs/remotes/origin/master
